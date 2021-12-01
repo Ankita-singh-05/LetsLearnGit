@@ -1,5 +1,7 @@
 public class Diff {
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        int a = 9;
+        int b = 5;
+        System.out.println("Difference is:" + (a - b));
     }
 }
